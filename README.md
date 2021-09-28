@@ -5,7 +5,8 @@ Trajectory planning techniques:
 1) Artificial Potential Fields (APF)
 2) Artificial Potential Fields Discretized (APFD)
 3) Visibility Graph
-4) Point-to-point trajectory
+4) Voronoi Diagram
+5) Point-to-point trajectory
 
 Control laws:
 1) Linear control
