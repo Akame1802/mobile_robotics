@@ -11,4 +11,4 @@ Trajectory planning techniques:
 Control laws:
 1) Linear control
 2) Non-linear control
-3) Feedbakc linearization control
+3) Feedback linearization control
